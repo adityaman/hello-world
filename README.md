@@ -1,2 +1,2 @@
 # hello-world
-Shirt description?Hell yeah.
+Short description?Hell yeah.
